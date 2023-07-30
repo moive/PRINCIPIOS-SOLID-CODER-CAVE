@@ -11,8 +11,6 @@
   <ItemGroup>
     <Folder Include="4-D\Problem\" />
     <Folder Include="4-D\Solution\" />
-    <Folder Include="3-I\Problem\" />
-    <Folder Include="3-I\Solution\" />
   </ItemGroup>
 
 </Project>
